@@ -28,7 +28,6 @@
 
 <button id="calcButton" class="glow-on-hover"> Calcule</button>
 
-</div>
 
 <h3 class="result"></h3>
 
@@ -38,4 +37,3 @@
 
 <script src="bmi.js"></script>
 
-</body>
