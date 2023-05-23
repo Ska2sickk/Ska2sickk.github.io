@@ -3,7 +3,6 @@
 <html lang="en">
 <head>
   <link rel="stylesheet" href="Bmi.css">
-</head>
 <style>
 
 body {
