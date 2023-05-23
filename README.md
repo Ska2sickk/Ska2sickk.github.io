@@ -3,27 +3,6 @@
 <html lang="en">
 <head>
   <link rel="stylesheet" href="Bmi.css">
-<style>
-
-body {
-
-background-color:grey;
-
-}
-
-<style>
-
-{
-
-text-align: center;
-
-}
-
-text-align: center;
-
-}
-
-</style>
 
 <body text="white"></body>
 
